@@ -11,6 +11,8 @@ Every image later converted to MNIST like array and later used in training.
 
 Sadly model suffered from underfitting, if you want experiment with it, feel free to download it and contact me if you have any question.
 
+run painter.py to start program
+
 Libraries used:<br>
 tensorflow<br>
 sklearn<br>
